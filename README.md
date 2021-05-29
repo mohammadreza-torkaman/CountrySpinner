@@ -1,2 +1,6 @@
+[![](https://jitpack.io/v/mohammadreza-torkaman/CountrySpinner.svg)](https://jitpack.io/#mohammadreza-torkaman/CountrySpinner)
 # CountrySpinner
-Android custom spinner with supporting different countries
+
+This is a custom adapter for android spinner to support different countries
+
+# How to
