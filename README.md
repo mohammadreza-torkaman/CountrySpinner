@@ -14,13 +14,13 @@ allprojects {
       }
     }
 ```    
-Step 2. Add the dependency
+>Step 2. Add the dependency
 ```   
 	dependencies {
 	        implementation 'com.github.mohammadreza-torkaman:CountrySpinner:v1.0'
 	}
 ```   
-Step 3. Use Adapter
+>Step 3. Use Adapter
 
 You can use the adapter with default items like this :
 ```   
