@@ -1,3 +1,4 @@
+
 [![](https://jitpack.io/v/mohammadreza-torkaman/CountrySpinner.svg)](https://jitpack.io/#mohammadreza-torkaman/CountrySpinner)
 # CountrySpinner
 
@@ -41,3 +42,5 @@ Your xml should contains two textview and one image view with these ids:
 2. country name text view id : country_name
  
 3. country flag image view id : country_flag
+
+![processed](https://user-images.githubusercontent.com/83089712/120054321-7e0ca880-c044-11eb-948c-65bbe023ff22.jpeg)
