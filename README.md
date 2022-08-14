@@ -2,7 +2,7 @@
 [![](https://jitpack.io/v/mohammadreza-torkaman/CountrySpinner.svg)](https://jitpack.io/#mohammadreza-torkaman/CountrySpinner)
 # CountrySpinner
 
-This is a custom adapter for android spinner to support different countries
+This is a custom adapter for the android spinner to support different countries
 
 # How to
 >Step 1. Add the JitPack repository to your build file
